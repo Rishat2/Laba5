@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab5.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-26T18:09:11" hostname="LAPTOP-FUAQ23QF" time="0.031">
+  <properties/>
+  <testcase name="appHasAGreeting" classname="lab5.AppTest" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

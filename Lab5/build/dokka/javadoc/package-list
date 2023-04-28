@@ -1,0 +1,13 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/[root]/package-summary.html
+$dokka.location:/Console///PointingToDeclaration/[root]/Console.html
+$dokka.location:/InitMap///PointingToDeclaration/[root]/InitMap.html
+$dokka.location:/JsonFile///PointingToDeclaration/[root]/JsonFile.html
+$dokka.location:/MainKt///PointingToDeclaration/[root]/MainKt.html
+$dokka.location:product/Organization.Companion///PointingToDeclaration/product/Organization.Companion.html
+$dokka.location:product/Product.Companion///PointingToDeclaration/product/Product.Companion.html
+commands
+product
+сlient
+
