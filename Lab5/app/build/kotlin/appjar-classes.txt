@@ -1,1 +1,0 @@
-C:\Downloads\Projects\Lab5\app\build\classes\kotlin\main\lab5\App.class;C:\Downloads\Projects\Lab5\app\build\classes\kotlin\main\lab5\AppKt.class
